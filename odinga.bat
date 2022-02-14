@@ -1,3 +1,3 @@
 @echo off
-echo CreateObject("SAPI.SpVoice").Speak "오딩어다 오딩어" > fool.vbs
+echo CreateObject("SAPI.SpVoice").Speak "o ding a da, o ding a" > fool.vbs
 start fool.vbs
